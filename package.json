@@ -19,7 +19,12 @@
     "@angular/platform-server": "^20.0.0",
     "@angular/router": "^20.0.0",
     "@angular/ssr": "^20.0.3",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.7",
     "express": "^5.1.0",
+    "jquery": "^3.7.1",
+    "json-server": "^0.17.4",
+    "popper.js": "^1.16.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
   },
